@@ -1,0 +1,28 @@
+.challenge-list li {
+  list-style-type: none;
+}
+
+.challenge-list li h3 {
+  color: #fff;
+  background-color: #B20961;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.challenge {
+  width: 100%;
+  background: #f1f1f1;
+  border-radius: .1rem;
+  padding: 10px;
+  margin-bottom: 60px;
+}
+
+.challenge-title {
+  font-weight: 600;
+}
+
+.example-use, .example-output {
+  margin: 12px 0 5px 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
